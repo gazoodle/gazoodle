@@ -24,7 +24,7 @@ Dash-Bored gives the same Home Assistant house a choice of working dashboards. T
 - **The Fridge** turns rooms and devices into Polaroids, magnets and sticky notes, in three household styles.
 - **Aurora** puts glass tiles over a sky that responds to the house. Open a room to get its controls.
 - **Digs** renders the house in cross-section, with rooms and devices built from pixel blocks.
-- **Contraption** is a working one-room prototype where ducks drive a Heath Robinson machine.
+- **Contraption** turns rooms into Heath Robinson machines. Ducks make their way through the machinery and power the devices they pass.
 
 <p>
 <a href="https://github.com/gazoodle/casa-mia/blob/main/docs/screenshots/dash-bored-gazette.webp"><img src="https://raw.githubusercontent.com/gazoodle/casa-mia/main/docs/screenshots/dash-bored-gazette.webp" width="150" alt="Gazette: the house as a newspaper"></a>&nbsp;
@@ -38,13 +38,16 @@ Dash-Bored gives the same Home Assistant house a choice of working dashboards. T
 <a href="https://github.com/gazoodle/casa-mia/blob/main/docs/screenshots/dash-bored-fridge-yuppies.webp"><img src="https://raw.githubusercontent.com/gazoodle/casa-mia/main/docs/screenshots/dash-bored-fridge-yuppies.webp" width="150" alt="Fridge: Yuppies"></a>
 </p>
 
+<p align="center">
+<a href="https://github.com/gazoodle/gazoodle/blob/main/contraption-blueprint.jpg"><img src="https://raw.githubusercontent.com/gazoodle/gazoodle/main/contraption-blueprint.jpg" width="600" alt="Contraption in Blueprint mode, with ducks driving the kitchen’s lights, blind and plug"></a>
+</p>
+
 #### Design mock-ups
 
-These images are concept previews. The Aurora, Digs and Contraption thumbnails show earlier designs while their Home Assistant versions are being developed.
+These images are concept previews. The Aurora and Digs thumbnails show earlier designs while their Home Assistant versions are being developed.
 
 <p>
 <a href="https://github.com/gazoodle/casa-mia/blob/main/docs/screenshots/dash-bored-mock-calibre.webp"><img src="https://raw.githubusercontent.com/gazoodle/casa-mia/main/docs/screenshots/dash-bored-mock-calibre.webp" width="150" alt="Calibre, as a mock-up"></a>&nbsp;
-<a href="https://github.com/gazoodle/casa-mia/blob/main/docs/screenshots/dash-bored-mock-contraption.webp"><img src="https://raw.githubusercontent.com/gazoodle/casa-mia/main/docs/screenshots/dash-bored-mock-contraption.webp" width="150" alt="Contraption, as a mock-up"></a>&nbsp;
 <a href="https://github.com/gazoodle/casa-mia/blob/main/docs/screenshots/dash-bored-mock-aurora.webp"><img src="https://raw.githubusercontent.com/gazoodle/casa-mia/main/docs/screenshots/dash-bored-mock-aurora.webp" width="150" alt="Aurora, as a mock-up"></a>&nbsp;
 <a href="https://github.com/gazoodle/casa-mia/blob/main/docs/screenshots/dash-bored-mock-pcb.webp"><img src="https://raw.githubusercontent.com/gazoodle/casa-mia/main/docs/screenshots/dash-bored-mock-pcb.webp" width="150" alt="Board, as a mock-up"></a>
 </p>
