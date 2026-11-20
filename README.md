@@ -10,7 +10,14 @@ Home Assistant tools built around how we use the house. Wall tablets that fit th
 
 ### Dash-Bored
 
-The Gazette turns what’s happening in the house into newspaper stories. The Console puts the same house behind controls from five different decades, from 1950s Bakelite to 1990s Beige, and the Fridge puts it on a door covered in magnets. This is an active project, with working dashboards and experiments at different stages. [Dash-Bored project notes](https://github.com/gazoodle/casa-mia/blob/main/docs/applets/dash-bored.md)
+Dash-Bored gives the same Home Assistant house a choice of working dashboards. The project is in active development. [Dash-Bored project notes](https://github.com/gazoodle/casa-mia/blob/main/docs/applets/dash-bored.md)
+
+- **The Gazette** turns what’s happening in the house into newspaper stories, with three editions drawn from the same events.
+- **The Console** puts the house behind five decades of controls: Bakelite, Nixie, Silverface, Bargraph and Beige.
+- **The Fridge** turns rooms and devices into Polaroids, magnets and sticky notes, in three household styles.
+- **Aurora** puts glass tiles over a sky that responds to the house. Open a room to get its controls.
+- **Digs** renders the house in cross-section, with rooms and devices built from pixel blocks.
+- **Contraption** is a working one-room prototype where ducks drive a Heath Robinson machine.
 
 <p>
 <a href="https://github.com/gazoodle/casa-mia/blob/main/docs/screenshots/dash-bored-gazette.webp"><img src="https://raw.githubusercontent.com/gazoodle/casa-mia/main/docs/screenshots/dash-bored-gazette.webp" width="150" alt="Gazette: the house as a newspaper"></a>&nbsp;
