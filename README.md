@@ -2,7 +2,7 @@
 
 I build things for my house and share the ones that might be useful in yours.
 
-[Casa Mia](#casa-mia) · [Dash-Bored](#dash-bored) · [HA Dial](#ha-dial) · [Sensor Watch](#sensor-watch) · [More projects](#more-projects)
+[Casa Mia](#casa-mia) · [Dash-Bored](#dash-bored) · [HA Dial](#ha-dial) · [Sensor Watch](#sensor-watch) · [More projects](#more-projects) · [What’s coming](#whats-coming)
 
 ## Casa Mia
 
@@ -153,3 +153,17 @@ Teach Home Assistant what normal looks like and get a short list of what needs a
 <a href="https://github.com/gazoodle/gecko-home-assistant/blob/main/screenshot.png"><img src="https://raw.githubusercontent.com/gazoodle/gecko-home-assistant/main/screenshot.png" alt="Gecko Home Assistant: spa controls" width="150"></a>&nbsp;
 <a href="https://github.com/gazoodle/CenturyVSPump/blob/main/images/Atom-RS485.png"><img src="https://raw.githubusercontent.com/gazoodle/CenturyVSPump/main/images/Atom-RS485.png" alt="CenturyVSPump: Atom RS485 hardware" width="150"></a>
 </p>
+
+## What’s coming
+
+### Gang-O-Gals
+
+Think of Trinity getting into the helicopter in *The Matrix* and Tank downloading the skill she needs. That’s the idea behind Gang-O-Gals. A team of agents works closely together, each with a specific job. When a request comes through Home Assistant’s Assist pipeline, the right agent gets the skills and context it needs for that task.
+
+The bet is that, for household tasks, a gang of specialists running on modest hardware at home can be as effective as a frontier model, without burning through paid tokens or sending household data off-site.
+
+This was my first go at AI pair programming. I’m planning a full rewrite using what I’ve learned building the projects already on this page.
+
+#### Why all girls?
+
+To prevent mansplaining. I have a tendency to do this when my wife, understandably, asks why the radio is silent in the kitchen, for the 3rd time today and the 20th time since I started faffing around ... anyway, no chance of a Gang of Gals doing that, right? :-)
