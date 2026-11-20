@@ -158,7 +158,9 @@ Teach Home Assistant what normal looks like and get a short list of what needs a
 
 ### Gang-O-Gals
 
-<a href="https://github.com/gazoodle/gazoodle/blob/main/ChatGPT%20Image%2020%20Nov%202026%2C%2015_26_07.png"><img src="https://raw.githubusercontent.com/gazoodle/gazoodle/main/ChatGPT%20Image%2020%20Nov%202026%2C%2015_26_07.png" alt="Gang-O-Gals Agents view for the Rosa Place demo home" width="200"></a>
+<p align="center">
+<a href="https://github.com/gazoodle/gazoodle/blob/main/gog-agents.png"><img src="https://raw.githubusercontent.com/gazoodle/gazoodle/main/gog-agents.png" alt="Gang-O-Gals Agents view for the Rosa Place demo home" width="600"></a>
+</p>
 
 Think of Trinity getting into the helicopter in *The Matrix* and Tank downloading the skill she needs. That’s the idea behind Gang-O-Gals. A team of agents works closely together, each with a specific job. When a request comes through Home Assistant’s Assist pipeline, the right agent gets the skills and context it needs for that task.
 
