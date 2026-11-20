@@ -7,7 +7,7 @@ wings waiting for time that I never seem to have, and now after months of workin
 do, so I thought I could release some of the stuff that I've had around, and also see how far I can push them to do cool, interesting and sometimes
 crazy stuff. It's been a roller-coaster of a ride, involved quite a bit of shouting, or at least sentences with CAPS LOCK on, but I think I've got them 
 on a reasonably tight leash now [comments always welcome!], you can see the prompt files in the repos to see what I lock them down with, but it's 
-basically TDD, DRY, YAGNI, Ponytail, TokenSave, My optimisation rules and just generate good practice development, layers architecture, etc. 
+basically TDD, DRY, YAGNI, Ponytail, TokenSave, My optimisation rules and just good practice development, layers architecture, etc. 
 
 [Casa Mia](#casa-mia) · [Dash-Bored](#dash-bored) · [HA Dial](#ha-dial) · [Sensor Watch](#sensor-watch) · [More projects](#more-projects) · [What’s coming](#whats-coming)
 
